@@ -14,26 +14,33 @@ A modern Finance Tracker web application built using **HTML, CSS, and JavaScript
 ## 📸 Preview
 
 ### Register / Login
+
 <img width="1908" height="972" alt="Image" src="https://github.com/user-attachments/assets/30539995-da86-4ff6-8ef7-1288732d0dc2" />
 
 <img width="1916" height="972" alt="Image" src="https://github.com/user-attachments/assets/15541565-efeb-4dde-a4e9-87c79ca66f7e" />
 
 ### Dashboard
-#### ☀️ Light Mode 
+
+#### ☀️ Light Mode
+
 <img width="1913" height="977" alt="Image" src="https://github.com/user-attachments/assets/74835da8-21b1-4356-9620-07d5084033f6" />
 
 <img width="1911" height="970" alt="Image" src="https://github.com/user-attachments/assets/bdf0cf42-0a47-4bd2-9e41-1e82e1c862db" />
 
 #### 🌙 Dark Mode
+
 <img width="1916" height="975" alt="Image" src="https://github.com/user-attachments/assets/012660b7-4dff-4d1f-8e83-715fb0d67f66" />
 
 <img width="1917" height="971" alt="Image" src="https://github.com/user-attachments/assets/782764fd-42c3-4677-aec4-06049f2e8ce4" />
 
 ### Settings
+
 #### ☀️ Light Mode
+
 <img width="1915" height="977" alt="Image" src="https://github.com/user-attachments/assets/38817c0f-f711-43b8-bf08-2f02efa616c7" />
 
 #### 🌙 Dark Mode
+
 <img width="1917" height="912" alt="Image" src="https://github.com/user-attachments/assets/deb750ba-d283-41e7-93cd-abc2b3fbc87a" />
 
 ---
@@ -151,3 +158,13 @@ No backend or database is required.
 ## ⭐ Support
 
 If you found this project helpful, please consider giving it a ⭐ on GitHub.
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**. Feel free to use, modify, and distribute this project for learning and personal purposes.
+
+---
+
+### Made with ❤️ by **Ragani Kumari**
