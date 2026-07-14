@@ -104,7 +104,6 @@ window.addEventListener("click", (e) => {
 });
 const form = document.getElementById("transactionForm");
 const tbody = document.getElementById("transactionBody");
-// const modal = document.getElementById("transactionModal");
 
 
 let transactions = JSON.parse(localStorage.getItem("transactions")) || [];
@@ -428,7 +427,7 @@ function logout() {
     localStorage.removeItem("isLoggedIn");
 
     // Login page par redirect
-    window.location.href = "register.html";
+    window.location.href = "index.html";
 
 }
 
