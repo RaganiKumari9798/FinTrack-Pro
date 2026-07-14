@@ -22,7 +22,7 @@ A modern Finance Tracker web application built using **HTML, CSS, and JavaScript
 #### ☀️ Light Mode 
 <img width="1913" height="977" alt="Image" src="https://github.com/user-attachments/assets/74835da8-21b1-4356-9620-07d5084033f6" />
 
-<img width="1882" height="961" alt="Image" src="https://github.com/user-attachments/assets/f8df8679-c166-49e6-8161-8783e8371031" />
+<img width="1911" height="970" alt="Image" src="https://github.com/user-attachments/assets/bdf0cf42-0a47-4bd2-9e41-1e82e1c862db" />
 
 #### 🌙 Dark Mode
 <img width="1916" height="975" alt="Image" src="https://github.com/user-attachments/assets/012660b7-4dff-4d1f-8e83-715fb0d67f66" />
